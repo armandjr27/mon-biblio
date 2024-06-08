@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Montserrat-r";
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Roboto-r";
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+body {
+    font-family: "Montserrat-r", sans-serif;
+}
+
+.navbar-brand {
+    font-family: "Roboto-r", sans-serif;
+}
+
+.active {
+    border-bottom: 2px solid #fff;
+    padding-inline: 0;
+}

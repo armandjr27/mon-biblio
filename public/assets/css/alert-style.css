@@ -1,0 +1,13 @@
+.alert-msg {
+	width: 480px;
+	position: fixed;
+	right: 2%;
+	bottom: 5%;
+	z-index: 100;
+}
+
+#alert-msg-add,
+#alert-msg-update,
+#alert-msg-delete {
+	display: none;
+}
